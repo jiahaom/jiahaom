@@ -14,7 +14,11 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 
 - How to Build Machine Learning Pipelines in Google Colab ![](https://img.shields.io/badge/MLOps-555555?logo=jupyter) 
 
+- How to Initialise Spark, Read and Transform Data [![](https://badges.aleen42.com/src/medium.svg)](https://medium.com/@jiahao.meng/pyspark-cheat-sheet-with-code-samples-65398180fcf1)
+
 - How Deep Learning Impacts Our Daily Work: NLP for text matching [![](https://badges.aleen42.com/src/medium.svg)](https://medium.com/@jiahao.meng/how-deep-learning-impacts-our-daily-work-nlp-for-text-matching-a20bc4a746dd)
+
+
 
 - NLP Recommendation System [![](https://img.shields.io/badge/NLP%20Matching-ec5a53)](https://matching.streamlit.app)
 
