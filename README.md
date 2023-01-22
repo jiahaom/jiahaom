@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![https://www.linkedin.com/in/jiahao-meng-09b043169](https://img.shields.io/badge/LinkedIn-Jiahao%20Meng-blue)
+
 <!--
 **jiahaom/jiahaom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
