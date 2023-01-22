@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/Jiahao%20Meng-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jiahao-meng-09b043169)  [![](https://img.shields.io/badge/Jiahaom-white?logo=instagram)](https://www.instagram.com/jiahaom/) 
 
-Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine learning, and statistics. I currently work at Kortext, graduated from Queen Mary University of London, where I learnt and built recommendation systems [![](https://img.shields.io/badge/NLP%20Matching-ec5a53)](https://matching.streamlit.app) and analytics tools. I'm proficient in Python and have experience with big data technologies such as PySpark. I'm also familiar with A/B testing and enjoy deploying and maintaining models. I am always looking for new opportunities to learn and grow as a developer. 
+Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine learning, and statistics. I currently work at Kortext, graduated from Queen Mary University of London, where I learnt and built recommendation systems and analytics tools. I'm proficient in Python and have experience with big data technologies such as PySpark. I'm also familiar with A/B testing and enjoy deploying and maintaining models. I am always looking for new opportunities to learn and grow as a developer. 
 
 
 
