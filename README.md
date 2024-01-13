@@ -13,7 +13,8 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 👨🏼‍💻 Projects:
 
 - Currently I'm working on a job searching and matching project with one of my friend. I'm mainly working as a Data Engineer, Data Scientist(ML/NLP) and Data Analyst, and my friend is working as a Full-stack Engineer. We will try to release the product asap. 
-- <img width="1433" alt="image" src="https://github.com/jiahaom/jiahaom/assets/32929553/e298f50b-191b-4cd9-9cfa-c908673e2cd6">
+<img width="1431" alt="image" src="https://github.com/jiahaom/jiahaom/assets/32929553/073f47be-5669-4ebd-a071-aeb6b67269fa">
+
 
 
 - How to Build Machine Learning Pipelines with TensorFlow Extended(TFX) [![](https://img.shields.io/badge/MLOps-555555?logo=jupyter)](https://github.com/jiahaom/MLOps)
