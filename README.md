@@ -12,6 +12,10 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 
 👨🏼‍💻 Projects:
 
+- Currently I'm working on a job searching and matching project with one of my friend. I'm mainly working as a Data Engineer, Data Scientist(ML/NLP) and Data Analyst, and my friend is working as a Full-stack Engineer. We will try to release the product asap. 
+- <img width="1433" alt="image" src="https://github.com/jiahaom/jiahaom/assets/32929553/e298f50b-191b-4cd9-9cfa-c908673e2cd6">
+
+
 - How to Build Machine Learning Pipelines with TensorFlow Extended(TFX) [![](https://img.shields.io/badge/MLOps-555555?logo=jupyter)](https://github.com/jiahaom/MLOps)
 
 - How to Initialise Spark, Read and Transform Data [![](https://badges.aleen42.com/src/medium.svg)](https://medium.com/@jiahao.meng/pyspark-cheat-sheet-with-code-samples-65398180fcf1)
@@ -29,5 +33,7 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 ⚙️ Tools:
 
 ![](https://badges.aleen42.com/src/tensorflow.svg) ![](https://badges.aleen42.com/src/python.svg) ![](https://badges.aleen42.com/src/atom.svg) ![](https://badges.aleen42.com/src/npm.svg) ![](https://badges.aleen42.com/src/docker.svg) ![](https://badges.aleen42.com/src/medium.svg) ![](https://badges.aleen42.com/src/photoshop.svg)
+
+
 
 
