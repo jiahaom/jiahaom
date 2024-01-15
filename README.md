@@ -13,7 +13,7 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 👨🏼‍💻 Projects:
 
 - Currently I'm working on a job searching and matching project with one of my friend. I'm mainly working as a Data Engineer, Data Scientist(ML/NLP) and Data Analyst, and my friend is working as a Full-stack Engineer. We will try to release the product asap. 
-<img width="1431" alt="image" src="https://github.com/jiahaom/jiahaom/assets/32929553/073f47be-5669-4ebd-a071-aeb6b67269fa">
+<img width="1431" alt="SCR-20240115-pgbw" src="https://github.com/jiahaom/jiahaom/assets/32929553/0ed79012-28e5-43c4-b3bd-13cbad41c878">
 
 - Which Octopus Plan is better:  Agile VS Tracker? [![](https://img.shields.io/badge/Data%20Analysis-555555?logo=jupyter)](https://github.com/jiahaom/jiahaom/blob/main/Energy.ipynb)
 
