@@ -12,7 +12,9 @@ Hello, I'm Jiahao! I'm a Data Analyst/Engineer with experience in NLP, machine l
 
 👨🏼‍💻 Projects:
 
-- I built an app from scratch with zero SwiftUI development experience:  Dazi Pro—your go-to app for finding the perfect match for any activity! Whether you’re into hiking, traveling, dining, photography, gaming, or coffee chats, Dazi Pro connects you with like-minded people. Simply post an event with details like date, location, and budget, then explore potential matches using our map and list views. Booking activities and chatting with hosts has never been easier—do it all directly within the app! [![](https://youtu.be/TjRV598hdcU)
+- I built an app from scratch with zero SwiftUI development experience:  Dazi Pro—your go-to app for finding the perfect match for any activity! Whether you’re into hiking, traveling, dining, photography, gaming, or coffee chats, Dazi Pro connects you with like-minded people. Simply post an event with details like date, location, and budget, then explore potential matches using our map and list views. Booking activities and chatting with hosts has never been easier—do it all directly within the app!
+
+  - [![Watch the video](https://img.youtube.com/vi/TjRV598hdcU/0.jpg)](https://youtu.be/TjRV598hdcU)
 
 - Which Octopus Plan is better:  Agile VS Tracker? [![](https://img.shields.io/badge/Data%20Analysis-555555?logo=jupyter)](https://github.com/jiahaom/jiahaom/blob/main/Energy.ipynb)
 
