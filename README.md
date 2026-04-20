@@ -12,19 +12,6 @@
 
 - https://photospot.now
 
-- Which Octopus Plan is better:  Agile VS Tracker? [![](https://img.shields.io/badge/Data%20Analysis-555555?logo=jupyter)](https://github.com/jiahaom/jiahaom/blob/main/Energy.ipynb)
-
-- How to Build Machine Learning Pipelines with TensorFlow Extended(TFX) [![](https://img.shields.io/badge/MLOps-555555?logo=jupyter)](https://github.com/jiahaom/MLOps)
-
-- How to Initialise Spark, Read and Transform Data [![](https://badges.aleen42.com/src/medium.svg)](https://medium.com/@jiahao.meng/pyspark-cheat-sheet-with-code-samples-65398180fcf1)
-
-- How Deep Learning Impacts Our Daily Work: NLP for text matching [![](https://badges.aleen42.com/src/medium.svg)](https://medium.com/@jiahao.meng/how-deep-learning-impacts-our-daily-work-nlp-for-text-matching-a20bc4a746dd)
-
-- NLP Recommendation System [![](https://img.shields.io/badge/NLP%20Matching-ec5a53)](https://matching.streamlit.app)
-
-- Password Manager [![](https://img.shields.io/badge/PW%20Manager-ec5a53)](https://password.streamlit.app) 
-
-
 
 
 
